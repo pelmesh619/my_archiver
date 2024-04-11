@@ -1,4 +1,4 @@
-This archiver was written as one of laboratory work in the first semester in ITMO University
+This archiver was written as one of laboratory work in the first semester at ITMO University
 
 It uses redundant error-correcting Hamming code and can archive a lot of files creating a single `.haf` file
 
